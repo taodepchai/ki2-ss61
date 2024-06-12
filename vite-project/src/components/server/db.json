@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "Giặt quần áo",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Nấu cơm",
+      "completed": false
+    }
+  ]
+}
